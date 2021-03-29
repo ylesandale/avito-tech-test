@@ -1,4 +1,4 @@
-Тестовое задание для стажёра frontend (React)
+Тестовое задание для стажёра frontend (React): https://github.com/avito-tech/safedeal-frontend-trainee
 
 **Попробуй:**
 
